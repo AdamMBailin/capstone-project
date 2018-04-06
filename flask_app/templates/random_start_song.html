@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Random Song</title>
+  </head>
+  <body>
+    <h1>Your random start song!</h1>
+    <p>
+      {% for row in lyrics %}
+      {{row}}<br/>
+      {% endfor %}
+    </p>
+    <button onclick="location.href = 'http://localhost:5000/';" >home</button>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Your Song</title>
+  </head>
+  <body>
+    <h1>Your song is ready!</h1>
+    <p>
+      {{start_text}}<br/>
+    </p>
+    <p>
+      {% for row in lyrics %}
+      {{row}}<br/>
+      {% endfor %}
+    </p>
+    <button onclick="location.href = 'http://localhost:5000/';" >home</button>
+  </body>
+</html>

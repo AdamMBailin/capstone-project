@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>song generator</title>
+  </head>
+  <body>
+
+    <form action="http://localhost:5000/song_generator" method="POST">
+      <p>length of lyrics in words <input type="number" name="length" /></p>
+      <p>Starting text <input type="text" name="start" /></p>
+      <p><input type="submit" value="submit" /></p>
+    </form>
+
+    <h2>or<h2>
+
+    <button onclick="location.href = 'http://localhost:5000/random';" >random</button>
+
+  </body>
+</html>
