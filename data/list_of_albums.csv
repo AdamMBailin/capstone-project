@@ -1,0 +1,730 @@
+,album_title,artist,release_date,score
+1,I See a Darkness,Bonnie 'Prince' Billy,"January 19, 1999",100
+2,In the Aeroplane Over the Sea,Neutral Milk Hotel,"February 10, 1998",100
+3,The Hissing of Summer Lawns,Joni Mitchell,"November 8, 1975",100
+4,Blood on the Tracks,Bob Dylan,"January 20, 1975",100
+5,Court and Spark,Joni Mitchell,"January 1, 1974",100
+6,Pink Moon,Nick Drake,"February 25, 1972",100
+7,Blue,Joni Mitchell,"June 22, 1971",100
+8,After the Gold Rush,Neil Young,"September 19, 1970",100
+9,Bryter Layter,Nick Drake,"November 1, 1970",97
+10,I Never Even Asked for Light,Lullaby for the Working Class,"October 21, 1997",96
+11,Songs of Leonard Cohen,Leonard Cohen,"December 27, 1967",96
+12,"Bon Iver, Bon Iver",Bon Iver,"June 21, 2011",95
+13,On The Beach,Neil Young,"July 16, 1974",95
+14,Five Leaves Left,Nick Drake,"September 1, 1969",95
+15,Ys,Joanna Newsom,"November 14, 2006",94
+16,Bridge Over Troubled Water,Simon & Garfunkel,"January 26, 1970",94
+17,Carrie & Lowell,Sufjan Stevens,"March 31, 2015",93
+18,The Bootleg Series Vol. 7: No Direction Home: the Soundtrack,Bob Dylan,"August 30, 2005",93
+19,Unhalfbricking,Fairport Convention,"July 1, 1969",93
+20,Benji,Sun Kil Moon,"February 11, 2014",92
+21,Have One on Me,Joanna Newsom,"February 23, 2010",92
+22,Illinois,Sufjan Stevens,"July 5, 2005",92
+23,The Glow Pt. 2,The Microphones,"September 25, 2001",92
+24,Shields,Grizzly Bear,"September 18, 2012",91
+25,The Bootleg Series Vol. 9: The Witmark Demos: 1962,Bob Dylan,"October 19, 2010",91
+26,The Bootleg Series Vol. 6: Bob Dylan Live 1964,Bob Dylan,"March 30, 2004",91
+27,Bad Timing,Jim O'Rourke,"August 25, 1997",91
+28,For the Roses,Joni Mitchell,"November 0, 1972",91
+29,A Crow Looked at Me,Mount Eerie,"March 24, 2017",90
+30,Veckatimest,Grizzly Bear,"May 26, 2009",90
+31,Fleet Foxes,Fleet Foxes,"June 3, 2008",90
+32,Songs for a Blue Guitar,Red House Painters,"July 23, 1996",90
+33,Red House Painters (Rollercoaster),Red House Painters,"May 24, 1993",90
+34,Torch of the Mystics,Sun City Girls,"January 1, 1990",90
+35,In My Own Time,Karen Dalton,"January 1, 1971",90
+36,Just Another Diamond Day,Vashti Bunyan,"December 1, 1970",90
+37,Sweetheart of the Rodeo,The Byrds,"August 30, 1968",90
+38,Sung Tongs,Animal Collective,"June 1, 2004",89
+39,You Are Free,Cat Power,"February 18, 2003",89
+40,Central Reservation,Beth Orton,"March 9, 1999",89
+41,Bunny Gets Paid,Red Red Meat,"October 10, 1995",89
+42,Chelsea Girl,Nico,"October 1, 1967",89
+43,"I Love You, Honeybear",Father John Misty,"February 10, 2015",88
+44,Lost in the Dream,The War on Drugs,"March 18, 2014",88
+45,Muchacho,Phosphorescent,"March 19, 2013",88
+46,Helplessness Blues,Fleet Foxes,"May 3, 2011",88
+47,Either/Or,Elliott Smith,"February 25, 1997",88
+48,Songs from a Room,Leonard Cohen,"April 7, 1969",88
+49,What We Did on Our Holidays,Fairport Convention,"January 1, 1969",88
+50,Crack,Fleet Foxes,"June 16, 2017",87
+51,The Bootleg Series Vol. 10: Another Self Portrait (1969,Bob Dylan,"August 27, 2013",87
+52,Lie Down in the Light,Bonnie 'Prince' Billy,"May 20, 2008",87
+53,Sun Giant,Fleet Foxes,"April 8, 2008",87
+54,The Cloud of Unknowing,James Blackshaw,"June 5, 2007",87
+55,New Moon,Elliott Smith,"May 8, 2007",87
+56,Joanna Newsom and the Ys Street Band,Joanna Newsom,"April 9, 2007",87
+57,Roots & Crowns,Califone,"October 10, 2006",87
+58,Yellow House,Grizzly Bear,"September 5, 2006",87
+59,"I'm Wide Awake, It's Morning",Bright Eyes,"January 25, 2005",87
+60,King of America,Elvis Costello,"February 21, 1986",87
+61,Zuma,Neil Young and Crazy Horse,"November 10, 1975",87
+62,Judee Sill,Judee Sill,"September 15, 1971",87
+63,His Band and the Street Choir,Van Morrison,"November 15, 1970",87
+64,Turn Out the Lights,Julien Baker,"October 27, 2017",86
+65,Behold The Spirit,William Tyler,"November 22, 2010",86
+66,Dark Was The Night,Various Artists,"February 17, 2009",86
+67,The Bootleg Series Vol. 8: Tell Tale Signs,Bob Dylan,"October 7, 2008",86
+68,The Shepherd's Dog,Iron & Wine,"September 25, 2007",86
+69,You Follow Me,Nina Nastasia & Jim White,"May 28, 2007",86
+70,Our Endless Numbered Days,Iron & Wine,"March 23, 2004",86
+71,Quicksand / Cradlesnakes,Califone,"March 18, 2003",86
+72,Everything Is Good Here / Please Come Home,Angels of Light,"January 1, 2003",86
+73,Poses,Rufus Wainwright,"June 5, 2001",86
+74,Parallelograms,Linda Perhacs,"January 1, 1970",86
+75,Now Only,Mount Eerie,"March 16, 2018",85
+76,Divers,Joanna Newsom,"October 23, 2015",85
+77,Dream River,Bill Callahan,"September 17, 2013",85
+78,Wakin on a Pretty Daze,Kurt Vile,"April 9, 2013",85
+79,The Wild Hunt,The Tallest Man On Earth,"April 13, 2010",85
+80,Furr,Blitzen Trapper,"September 23, 2008",85
+81,Friend,Grizzly Bear,"November 5, 2007",85
+82,Wild Mountain Nation,Blitzen Trapper,"June 12, 2007",85
+83,We Shall Overcome: The Seeger Sessions,Bruce Springsteen,"April 25, 2006",85
+84,Lookaftering,Vashti Bunyan,"October 17, 2005",85
+85,In the Reins,Calexico & Iron and Wine,"September 12, 2005",85
+86,Black Sheep Boy,Okkervil River,"April 5, 2005",85
+87,Greetings From Michigan: The Great Lakes State,Sufjan Stevens,"July 1, 2003",85
+88,Been Here and Gone,Thalia Zedek,"July 31, 2001",85
+89,The Coroner's Gambit,The Mountain Goats,"October 17, 2000",85
+90,Hitchhiker,Neil Young,"September 8, 2017",84
+91,Rocket,(Sandy) Alex G,"May 19, 2017",84
+92,b'lieve i'm goin down,Kurt Vile,"September 25, 2015",84
+93,Love's Crushing Diamond,Mutual Benefit,"October 25, 2013",84
+94,WIT'S END,Cass McCombs,"April 26, 2011",84
+95,Hymns for a Dark Horse,Bowerbirds,"June 17, 2007",84
+96,The Crane Wife,The Decemberists,"October 3, 2006",84
+97,Cripple Crow,Devendra Banhart,"September 13, 2005",84
+98,Rejoicing In The Hands,Devendra Banhart,"May 4, 2004",84
+99,Espers,Espers,"January 20, 2004",84
+100,Heron King Blues,Califone,"January 20, 2004",84
+101,Blush Music,Wovenhand,"February 3, 2003",84
+102,How I Long to Feel That Summer in My Heart,Gorky's Zygotic Mynci,"September 18, 2001",84
+103,Ocean Beach,Red House Painters,"March 27, 1995",84
+104,Not Even Happiness,Julie Byrne,"January 27, 2017",83
+105,Front Row Seat to Earth,Weyes Blood,"October 21, 2016",83
+106,Light Upon The Lake,Whitney,"June 3, 2016",83
+107,Singing Saw,Kevin Morby,"April 15, 2016",83
+108,Clear Moon,Mount Eerie,"May 22, 2012",83
+109,Rough Travel for a Rare Thing,Bill Callahan,"March 23, 2010",83
+110,Little Hells,Marissa Nadler,"March 3, 2009",83
+111,Lost Wisdom,Mount Eerie,"October 7, 2008",83
+112,Laulu Laakson Kukista,Paavoharju,"July 22, 2008",83
+113,Litany of Echoes,James Blackshaw,"June 17, 2008",83
+114,April,Sun Kil Moon,"April 1, 2008",83
+115,Shallow Grave,The Tallest Man On Earth,"March 18, 2008",83
+116,Modern Times,Bob Dylan,"August 29, 2006",83
+117,Picaresque,The Decemberists,"March 22, 2005",83
+118,School of the Flower,Six Organs of Admittance,"January 25, 2005",83
+119,Mountain Rock,Dear Nora,"May 18, 2004",83
+120,Ghosts of the Great Highway,Sun Kil Moon,"November 4, 2003",83
+121,Hello Starling,Josh Ritter,"September 9, 2003",83
+122,Weather Systems,Andrew Bird,"April 1, 2003",83
+123,Transfiguration of Vincent,M. Ward,"March 18, 2003",83
+124,American Stars 'n Bars,Neil Young,"June 13, 1977",83
+125,Reaching for Indigo,Circuit Des Yeux,"October 20, 2017",82
+126,Heart Like a Levee,Hiss Golden Messenger,"October 7, 2016",82
+127,case/lang/veirs,case/lang/veirs,"June 17, 2016",82
+128,Here's to Taking It Easy,Phosphorescent,"May 11, 2010",82
+129,Luck in the Valley,Jack Rose,"February 23, 2010",82
+130,Wind's Poem,Mount Eerie,"August 18, 2009",82
+131,Catacombs,Cass McCombs,"June 2, 2009",82
+132,"She's the Dutchess, He's the Duke",The Dutchess and the Duke,"July 8, 2008",82
+133,The Letting Go,Bonnie 'Prince' Billy,"September 19, 2006",82
+134,Post,M. Ward,"August 22, 2006",82
+135,Brightblack Morning Light,Brightblack Morning Light,"June 20, 2006",82
+136,Transistor Radio,M. Ward,"February 22, 2005",82
+137,Her Majesty the Decemberists,The Decemberists,"September 9, 2003",82
+138,Strange Bird,Augie March,"October 14, 2002",82
+139,All Hail West Texas,The Mountain Goats,"February 19, 2002",82
+140,Roomsound,Califone,"April 10, 2001",82
+141,Ghost of David,Damien Jurado,"September 19, 2000",82
+142,Down Colorful Hill,Red House Painters,"September 14, 1992",82
+143,Songs of Love and Hate,Leonard Cohen,"March 19, 1971",82
+144,City Music,Kevin Morby,"June 16, 2017",81
+145,The Navigator,Hurray For The Riff Raff,"March 10, 2017",81
+146,Burning the Threshold,Six Organs of Admittance,"February 24, 2017",81
+147,Sauna,Mount Eerie,"February 3, 2015",81
+148,On Your Own Love Again,Jessica Pratt,"January 27, 2015",81
+149,What Am I Going to Do With Everything I Know,The Weather Station,"October 14, 2014",81
+150,July,Marissa Nadler,"February 4, 2014",81
+151,Once I Was an Eagle,Laura Marling,"May 27, 2013",81
+152,Torres,TORRES,"January 22, 2013",81
+153,Marissa Nadler,Marissa Nadler,"June 14, 2011",81
+154,The Golden Record,Little Scream,"April 12, 2011",81
+155,Outlaster,Nina Nastasia,"June 22, 2010",81
+156,I See the Sign,Sam Amidon,"April 13, 2010",81
+157,I Speak Because I Can,Laura Marling,"April 6, 2010",81
+158,All My Friends Are Funeral Singers,Califone,"October 6, 2009",81
+159,"Gather, Form & Fly",Megafaun,"July 21, 2009",81
+160,Sometimes I Wish We Were An Eagle,Bill Callahan,"April 14, 2009",81
+161,March of the Zapotec/Holland EP,Beirut,"February 17, 2009",81
+162,"For Emma, Forever Ago",Bon Iver,"February 19, 2008",81
+163,Songs III: Bird on the Water,Marissa Nadler,"August 12, 2007",81
+164,Overboard & Down,Okkervil River,"January 1, 2006",81
+165,Seven Swans,Sufjan Stevens,"March 16, 2004",81
+166,The Creek Drank The Cradle,Iron & Wine,"September 24, 2002",81
+167,Castaways and Cutouts,The Decemberists,"May 21, 2002",81
+168,The Weather Station,The Weather Station,"October 6, 2017",80
+169,Peasant,Richard Dawson,"June 2, 2017",80
+170,Goths,The Mountain Goats,"May 19, 2017",80
+171,Colter Wall,Colter Wall,"May 12, 2017",80
+172,Lodestar,Shirley Collins,"November 4, 2016",80
+173,Modern Country,William Tyler,"June 3, 2016",80
+174,Eyes on the Lines,Steve Gunn,"June 3, 2016",80
+175,Thought Rock Fish Scale,Nap Eyes,"February 5, 2016",80
+176,All Are Saved,Fred Thomas,"April 7, 2015",80
+177,The Offer,Yowler,"March 10, 2015",80
+178,Way Out Weather,Steve Gunn,"October 7, 2014",80
+179,Double Exposure,Matt Kivel,"October 15, 2013",80
+180,Haw,Hiss Golden Messenger,"April 1, 2013",80
+181,Impossible Truth,William Tyler,"March 19, 2013",80
+182,Half Way Home,Angel Olsen,"September 4, 2012",80
+183,Love Will Prevail,Cult of Youth,"September 4, 2012",80
+184,Life Is People,Bill Fay,"August 21, 2012",80
+185,Silent Hour / Golden Mile,Daniel Rossen,"March 20, 2012",80
+186,Apocalypse,Bill Callahan,"April 5, 2011",80
+187,Innundir Skinni,Ólöf Arnalds,"September 14, 2010",80
+188,Spoils,Alasdair Roberts,"May 5, 2009",80
+189,Rockwell,Anni Rossi,"March 9, 2009",80
+190,To Be Still,Alela Diane,"February 17, 2009",80
+191,Rook,Shearwater,"June 3, 2008",80
+192,Pride,Phosphorescent,"October 23, 2007",80
+193,The Flying Club Cup,Beirut,"October 9, 2007",80
+194,We Are Him,Angels of Light,"September 11, 2007",80
+195,There's No Home,Jana Hunter,"April 2, 2007",80
+196,Akron/Family,Akron/Family,"March 22, 2005",80
+197,Love Songs for Patriots,American Music Club,"October 12, 2004",80
+198,Niño Rojo,Devendra Banhart,"September 13, 2004",80
+199,The Milk,Joanna Newsom,"March 23, 2004",80
+200,Ballads of Living and Dying,Marissa Nadler,"January 31, 2004",80
+201,The Grotto,Kristin Hersh,"March 17, 2003",80
+202,Field Songs,Mark Lanegan Band,"May 8, 2001",80
+203,Halfway to a Threeway,Jim O'Rourke,"November 22, 1999",80
+204,Axxess & Ace,Songs: Ohia,"March 15, 1999",80
+205,Cold Fact,Rodriguez,"March 1, 1970",80
+206,Phases,Angel Olsen,"November 10, 2017",79
+207,Summoning Suns,James Blackshaw,"March 17, 2015",79
+208,Still Life,Kevin Morby,"October 14, 2014",79
+209,Heal,Strand of Oaks,"June 23, 2014",79
+210,With Light and With Love,Woods,"April 15, 2014",79
+211,Where Shine New Lights,Tara Jane O'Neil,"January 27, 2014",79
+212,Time Off,Steve Gunn,"June 18, 2013",79
+213,Blood Oaths of the New Blues,Wooden Wand,"January 8, 2013",79
+214,"Love Is The Plan, The Plan Is Death",James Blackshaw,"April 24, 2012",79
+215,The Clearing,Bowerbirds,"March 6, 2012",79
+216,Tramp,Sharon Van Etten,"February 7, 2012",79
+217,People Changes,Nat Baldwin,"May 24, 2011",79
+218,Akron/Family II: The Cosmic Birth and Journey of Shinju TNT,Akron/Family,"February 8, 2011",79
+219,Undercard,The Extra Lens,"October 19, 2010",79
+220,Saint Bartlett,Damien Jurado,"May 25, 2010",79
+221,All Creatures Will Make Merry,Meursault,"May 24, 2010",79
+222,The Golden Archipelago,Shearwater,"February 23, 2010",79
+223,Beware,Bonnie 'Prince' Billy,"March 17, 2009",79
+224,Blood Bank EP,Bon Iver,"January 20, 2009",79
+225,Welcome to the Welcome Wagon,The Welcome Wagon,"December 9, 2008",79
+226,"Let Me Go, Let Me Go, Let Me Go",Jason Molina,"August 22, 2006",79
+227,II,Espers,"May 16, 2006",79
+228,Wolves,My Latest Novel,"March 6, 2006",79
+229,Year of Meteors,Laura Veirs,"August 23, 2005",79
+230,Emoh,Lou Barlow,"January 24, 2005",79
+231,Ease Down the Road,Bonnie 'Prince' Billy,"March 19, 2001",79
+232,Red House Painters (Bridge),Red House Painters,"October 18, 1993",79
+233,Wintres Woma,James Elkington,"June 30, 2017",78
+234,House and Land,House and Land,"June 16, 2017",78
+235,Mental Illness,Aimee Mann,"March 31, 2017",78
+236,Southland Mission,Phil Cook,"September 11, 2015",78
+237,Over and Even,Joan Shelley,"September 4, 2015",78
+238,Remembering Mountains: Unheard Songs by Karen Dalton,Karen Dalton,"May 26, 2015",78
+239,Loyalty,The Weather Station,"May 12, 2015",78
+240,Heartleap,Vashti Bunyan,"October 7, 2014",78
+241,Love,Amen Dunes,"May 13, 2014",78
+242,Shrink Dust,Chad VanGaalen,"April 29, 2014",78
+243,Small Town Heroes,Hurray For The Riff Raff,"February 11, 2014",78
+244,The Double EP: The Sea of Split Peas,Courtney Barnett,"October 14, 2013",78
+245,Miracle Temple,Mount Moriah,"February 26, 2013",78
+246,Ripely Pine,Lady Lamb the Beekeeper,"February 19, 2013",78
+247,Dispossession,Mike Wexler,"March 6, 2012",78
+248,Young Man in America,Anaïs Mitchell,"February 28, 2012",78
+249,Wolfroy Goes to Town,Bonnie 'Prince' Billy,"October 4, 2011",78
+250,Megafaun,Megafaun,"September 20, 2011",78
+251,Mount Moriah,Mount Moriah,"April 12, 2011",78
+252,Asleep on the Floodplain,Six Organs of Admittance,"February 22, 2011",78
+253,Cervantine,A Hawk and a Hacksaw,"February 18, 2011",78
+254,Epic,Sharon Van Etten,"September 21, 2010",78
+255,Sometimes The Blues Is Just A Passing Bird,The Tallest Man On Earth,"September 6, 2010",78
+256,All Is Falling,James Blackshaw,"August 24, 2010",78
+257,Belly of the Lion,Ola Podrida,"November 10, 2009",78
+258,Blue Roses,Blue Roses,"July 21, 2009",78
+259,Life On Earth,Tiny Vipers,"July 7, 2009",78
+260,Délivrance,A Hawk and a Hacksaw,"May 18, 2009",78
+261,A Ways Away,Tara Jane O'Neil,"May 5, 2009",78
+262,(a)spera,Mirah,"March 10, 2009",78
+263,The Living and The Dead,Jolie Holland,"October 7, 2008",78
+264,In Our Nature,José González,"September 24, 2007",78
+265,Love Is Simple,Akron/Family,"September 18, 2007",78
+266,Lon Gisland,Beirut,"January 30, 2007",78
+267,The Saga of Mayflower May,Marissa Nadler,"May 1, 2005",78
+268,Great Lake Swimmers,Great Lake Swimmers,"January 28, 2003",78
+269,Oh Me Oh My,Devendra Banhart,"October 28, 2002",78
+270,Roman Candle,Elliott Smith,"July 14, 1994",78
+271,One Foot in the Grave,Beck,"June 27, 1994",78
+272,Ladies of the Canyon,Joni Mitchell,"March 1, 1970",78
+273,Neil Young,Neil Young,"November 12, 1968",78
+274,Follow Them True,Stick In The Wheel,"January 26, 2018",77
+275,If Blue Could Be Happiness,Florist,"September 29, 2017",77
+276,Carrie & Lowell Live,Sufjan Stevens,"April 28, 2017",77
+277,Pleasure,Feist,"April 28, 2017",77
+278,Semper Femina,Laura Marling,"March 10, 2017",77
+279,50,Michael Chapman,"January 20, 2017",77
+280,I Am All Your Own,Ilyas Ahmed,"March 24, 2015",77
+281,Live At The Cellar Door,Neil Young,"December 10, 2013",77
+282,Bright Sunny South,Sam Amidon,"May 14, 2013",77
+283,My Garden State,Glenn Jones,"May 14, 2013",77
+284,Ghosts Go Blind,Ola Podrida,"April 30, 2013",77
+285,Country Sleep,Night Beds,"February 5, 2013",77
+286,Rhine Gold,Choir of Young Believers,"April 10, 2012",77
+287,The Rip Tide,Beirut,"August 30, 2011",77
+288,The Ornament,Gold Leaves,"August 16, 2011",77
+289,Tell Me,Jessica Lea Mayfield,"February 8, 2011",77
+290,Kiss Each Other Clean,Iron & Wine,"January 25, 2011",77
+291,In the Cool of the Day,Daniel Martin Moore,"January 18, 2011",77
+292,Heretofore,Megafaun,"September 14, 2010",77
+293,Made the Harbor,Mountain Man,"June 14, 2010",77
+294,Because I Was in Love,Sharon Van Etten,"May 26, 2009",77
+295,I Know You're Married But I've Got Feelings Too,Martha Wainwright,"June 10, 2008",77
+296,Gulag Orkestar,Beirut,"May 9, 2006",77
+297,First Light's Freeze,Castanets,"October 11, 2005",77
+298,Front Parlour Ballads,Richard Thompson,"August 1, 2005",77
+299,The Angels of Light Sing 'Other People',Angels of Light,"March 21, 2005",77
+300,Horn of Plenty,Grizzly Bear,"November 9, 2004",77
+301,The Black Babies,Devendra Banhart,"May 27, 2003",77
+302,A,Cass McCombs,"May 20, 2003",77
+303,"Lifted or The Story Is in the Soil, Keep Your Ear to the Ground",Bright Eyes,"August 13, 2002",77
+304,The Optimist LP,Turin Brakes,"March 5, 2001",77
+305,Lotta Sea Lice,Courtney Barnett & Kurt Vile,"October 13, 2017",76
+306,Eucalyptus,Avey Tare,"July 21, 2017",76
+307,Freedom Highway,Rhiannon Giddens,"February 24, 2017",76
+308,Strangers,Marissa Nadler,"May 20, 2016",76
+309,City Sun Eater in the River Of Light,Woods,"April 8, 2016",76
+310,Where In Our Woods,Elephant Micah,"January 20, 2015",76
+311,Lateness of Dancers,Hiss Golden Messenger,"September 9, 2014",76
+312,Farmer's Corner,Wooden Wand,"May 5, 2014",76
+313,Voices in a Rented Room,New Bums,"February 18, 2014",76
+314,"Someday, The Moon Will Be Gold",Kalle Mattson,"February 11, 2014",76
+315,Brothers and Sisters of the Eternal Son,Damien Jurado,"January 21, 2014",76
+316,Mala,Devendra Banhart,"March 12, 2013",76
+317,Occasion for Song,The Black Swans,"July 31, 2012",76
+318,Maraqopa,Damien Jurado,"February 21, 2012",76
+319,The Lion's Roar,First Aid Kit,"January 24, 2012",76
+320,Humor Risk,Cass McCombs,"November 8, 2011",76
+321,Fatou,Fatoumata Diawara,"September 27, 2011",76
+322,A Creature I Don't Know,Laura Marling,"September 13, 2011",76
+323,Last,The Unthanks,"April 19, 2011",76
+324,All Delighted People,Sufjan Stevens,"August 20, 2010",76
+325,Ullakkopalo,Kemialliset Ystävät,"August 17, 2010",76
+326,"All Is Wild, All Is Silent",Balmorhea,"March 10, 2009",76
+327,Heavy Ghost,DM Stith,"March 10, 2009",76
+328,To Willie,Phosphorescent,"February 3, 2009",76
+329,House With No Home,Horse Feathers,"September 9, 2008",76
+330,Palo Santo,Shearwater,"May 9, 2006",76
+331,Aw Come Aw Wry,Phosphorescent,"June 7, 2005",76
+332,Cranberry,Hovvdy,"February 9, 2018",75
+333,Beast Epic,Iron & Wine,"August 25, 2017",75
+334,Bedouine,Bedouine,"June 23, 2017",75
+335,Tara Jane O'Neil,Tara Jane O'Neil,"April 21, 2017",75
+336,Blue Mountain,Bob Weir,"September 30, 2016",75
+337,Pearls To Swine,Adam Torres,"September 9, 2016",75
+338,Love Letter For Fire,Sam Beam & Jesca Hoop,"April 15, 2016",75
+339,Where Have You Been All My Life?,Villagers,"January 8, 2016",75
+340,Still,Richard Thompson,"June 23, 2015",75
+341,Metalepsis,Eartheater,"February 24, 2015",75
+342,Picture You,The Amazing,"February 17, 2015",75
+343,Island Intervals,Death Vessel,"February 24, 2014",75
+344,Strong Feelings,Doug Paisley,"January 21, 2014",75
+345,Baba Yaga,Futurebirds,"April 16, 2013",75
+346,Come Home To Mama,Martha Wainwright,"October 16, 2012",75
+347,Ascent,Six Organs of Admittance,"August 21, 2012",75
+348,Grace & Lies,Family Band,"July 24, 2012",75
+349,Both Ways Open Jaws,The Dø,"November 15, 2011",75
+350,Tumble Bee,Laura Veirs,"November 8, 2011",75
+351,Field Songs,William Elliott Whitmore,"July 12, 2011",75
+352,Alela Diane & Wild Divine,Alela Diane,"April 5, 2011",75
+353,Constant Companion,Doug Paisley,"October 18, 2010",75
+354,Fields,Junip,"September 14, 2010",75
+355,All We Grow,S. Carey,"August 24, 2010",75
+356,Hawk,Isobel Campbell & Mark Lanegan,"August 24, 2010",75
+357,Destroyer of the Void,Blitzen Trapper,"June 8, 2010",75
+358,Thistled Spring,Horse Feathers,"April 20, 2010",75
+359,July Flame,Laura Veirs,"January 12, 2010",75
+360,Hush Arbors,Hush Arbors,"October 21, 2008",75
+361,Un Dia,Juana Molina,"October 6, 2008",75
+362,Miles Benjamin Anthony Robinson,Miles Benjamin Anthony Robinson,"June 10, 2008",75
+363,All We Could Do Was Sing,Port O'Brien,"May 13, 2008",75
+364,Emotionalism,The Avett Brothers,"May 15, 2007",75
+365,Dressed Up for the Letdown,Richard Swift,"February 20, 2007",75
+366,Ghetto Bells,Vic Chesnutt,"March 22, 2005",75
+367,Down the River of Golden Dreams,Okkervil River,"September 2, 2003",75
+368,Ghost Tropic,Songs: Ohia,"November 13, 2000",75
+369,The Two Worlds,Brigid Mae Power,"February 9, 2018",74
+370,Introduce Yerself,Gord Downie,"October 27, 2017",74
+371,Best Troubador,Bonnie 'Prince' Billy,"May 5, 2017",74
+372,Book of Changes,Entrance,"February 24, 2017",74
+373,One Day All of This Won’t Matter Any More,Slow Club,"August 19, 2016",74
+374,Short Movie,Laura Marling,"March 23, 2015",74
+375,After,Lady Lamb the Beekeeper,"March 3, 2015",74
+376,Seasonal Hire,Steve Gunn & The Black Twig Pickers,"February 24, 2015",74
+377,Some Heavy Ocean,Emma Ruth Rundle,"May 20, 2014",74
+378,Native State,Jess Williamson,"January 28, 2014",74
+379,Rooms with Walls and Windows,Julie Byrne,"January 21, 2014",74
+380,Warp and Weft,Laura Veirs,"August 19, 2013",74
+381,Who Needs Who,Dark Dark Dark,"October 2, 2012",74
+382,La Grande,Laura Gibson,"January 24, 2012",74
+383,Tamer Animals,Other Lives,"May 10, 2011",74
+384,Death Seat,Wooden Wand,"October 26, 2010",74
+385,Singing Ax,J. Tillman,"September 14, 2010",74
+386,True Love Cast Out All Evil,Roky Erickson with Okkervil River,"April 20, 2010",74
+387,The Wonder Show of the World,Bonnie 'Prince' Billy,"March 23, 2010",74
+388,Sunset/Sunrise,The Dutchess and the Duke,"October 6, 2009",74
+389,The Ruminant Band,Fruit Bats,"August 4, 2009",74
+390,Safe Inside the Day,Baby Dee,"January 22, 2008",74
+391,Gyllyng Street,Songs of Green Pheasant,"August 20, 2007",74
+392,Sharp Teeth,David Karsten Daniels,"January 22, 2007",74
+393,And Now That I'm in Your Shadow,Damien Jurado,"October 10, 2006",74
+394,Micah P. Hinson and the Opera Circuit,Micah P Hinson,"October 10, 2006",74
+395,Fading Trails,Magnolia Electric Co.,"September 12, 2006",74
+396,PREfection,Cass McCombs,"January 11, 2005",74
+397,Hecla & Griper,Songs: Ohia,"December 1, 1997",74
+398,I Need to Start a Garden,Haley Heynderickx,"March 2, 2018",73
+399,Moonshine Freeze,This Is The Kit,"July 7, 2017",73
+400,Memories Are Now,Jesca Hoop,"February 10, 2017",73
+401,Mowing,Michael Nau,"February 19, 2016",73
+402,Night Fiction,Cian Nugent,"January 29, 2016",73
+403,It Was Triumph We Once Proposed...Songs Of Jason Molina,Glen Hansard,"March 17, 2015",73
+404,Alasdair Roberts,Alasdair Roberts,"January 26, 2015",73
+405,Stay Gold,First Aid Kit,"June 10, 2014",73
+406,Lost Colony,William Tyler,"April 29, 2014",73
+407,Range of Light,S. Carey,"April 1, 2014",73
+408,Mug Museum,Cate Le Bon,"November 12, 2013",73
+409,Wed 21,Juana Molina,"October 29, 2013",73
+410,Stitches,Califone,"September 3, 2013",73
+411,About Farewell,Alela Diane,"June 25, 2013",73
+412,Hands of Glory,Andrew Bird,"October 30, 2012",73
+413,Fear Fun,Father John Misty,"May 1, 2012",73
+414,Gentle Stream,The Amazing,"October 5, 2011",73
+415,The World Is Just a Shape to Fill the Night,Case Studies,"August 15, 2011",73
+416,Two Matchsticks,The Wooden Birds,"June 7, 2011",73
+417,The Threshingfloor,Wovenhand,"June 22, 2010",73
+418,Around The Well,Iron & Wine,"May 19, 2009",73
+419,The Last Laugh,Joker's Daughter,"April 7, 2009",73
+420,Winter Hours,The Deep Dark Woods,"February 17, 2009",73
+421,Major General,Franz Nicolay,"January 13, 2009",73
+422,The Finally LP,Mark Kozelek,"December 9, 2008",73
+423,Caught in the Trees,Damien Jurado,"September 9, 2008",73
+424,Conor Oberst,Conor Oberst,"August 5, 2008",73
+425,The Throne of the Third Heaven of the Nations' Millennium General Assembly,Le Loup,"September 11, 2007",73
+426,To Find Me Gone,Vetiver,"May 19, 2006",73
+427,Songs of Green Pheasant,Songs of Green Pheasant,"August 9, 2005",73
+428,On My Way to Absence,Damien Jurado,"April 5, 2005",73
+429,Sweet Heart Fever,Scout Niblett,"October 16, 2001",73
+430,5 Songs,The Decemberists,"June 1, 2001",73
+431,The Notorious Byrd Brothers,The Byrds,"January 15, 1968",73
+432,"The Greatest Gift Mixtape – Outtakes, Remixes & Demos from Carrie & Lowell",Sufjan Stevens,"November 24, 2017",72
+433,Are You Serious,Andrew Bird,"April 1, 2016",72
+434,Eric Bachmann,Eric Bachmann,"March 25, 2016",72
+435,Fleeting,Glenn Jones,"March 18, 2016",72
+436,Janus,Matt Kivel,"February 5, 2016",72
+437,"Listen To Formation, Look For The Signs",Nadia Reid,"September 16, 2015",72
+438,Suuns and Jerusalem in My Heart,Suuns and Jerusalem in My Heart,"April 14, 2015",72
+439,At Best Cuckold,Avi Buffalo,"September 9, 2014",72
+440,When the Cellar Children See the Light of Day,Mirel Wagner,"August 12, 2014",72
+441,Liberation!,Peter Matthew Bauer,"June 16, 2014",72
+442,You Have Already Gone To The Other World,A Hawk and a Hacksaw,"April 2, 2013",72
+443,A Wonder Working Stone,Alasdair Roberts & Friends,"January 22, 2013",72
+444,Blood Speaks,Smoke Fairies,"May 22, 2012",72
+445,Grown Unknown,Lia Ices,"January 25, 2011",72
+446,The King is Dead,The Decemberists,"January 18, 2011",72
+447,Threadbare,Port O'Brien,"October 19, 2009",72
+448,At The Cut,Vic Chesnutt,"September 21, 2009",72
+449,Upper Air,Bowerbirds,"July 7, 2009",72
+450,The Glass Bead Game,James Blackshaw,"May 26, 2009",72
+451,Lost Channels,Great Lake Swimmers,"March 31, 2009",72
+452,Beasts of Season,Laura Gibson,"February 24, 2009",72
+453,Tight Knit,Vetiver,"February 17, 2009",72
+454,The Second Gleam EP,The Avett Brothers,"July 22, 2008",72
+455,The Avalanche,Sufjan Stevens,"July 11, 2006",72
+456,Puzzles Like You,Mojave 3,"June 6, 2006",72
+457,Ballad of the Broken Seas,Isobel Campbell & Mark Lanegan,"March 7, 2006",72
+458,Comfort of Strangers,Beth Orton,"February 7, 2006",72
+459,The Sunset Tree,The Mountain Goats,"April 26, 2005",72
+460,Drinking Songs,Matt Elliott,"February 1, 2005",72
+461,Digital Ash in a Digital Urn,Bright Eyes,"January 25, 2005",72
+462,From a Basement on the Hill,Elliott Smith,"October 19, 2004",72
+463,Where Shall You Take Me?,Damien Jurado,"March 18, 2003",72
+464,Don't Fall In Love With Everyone You See,Okkervil River,"January 22, 2002",72
+465,Every Day and Every Night,Bright Eyes,"November 1, 1999",72
+466,When You Walk A Long Distance You Are Tired,Mothers,"February 26, 2016",71
+467,Don't Weigh Down the Light,Meg Baird,"June 23, 2015",71
+468,Sallows,Anamai,"March 10, 2015",71
+469,Palindrome Hunches,Neil Halstead,"September 11, 2012",71
+470,There's No Leaving Now,The Tallest Man On Earth,"June 12, 2012",71
+471,Obadiah,Frazey Ford,"July 20, 2010",71
+472,Dead Man's Bones,Dead Man's Bones,"October 6, 2009",71
+473,Magnolia,The Wooden Birds,"May 12, 2009",71
+474,Colin Meloy Sings Shirley Collins,Colin Meloy,"January 1, 2006",71
+475,Harvest of Dreams,Bobb Trimble,"December 16, 1982",71
+476,Stranger in the Alps,Phoebe Bridgers,"September 22, 2017",70
+477,I’m a Harmony,Linda Perhacs,"September 22, 2017",70
+478,The Following Mountain,Sam Amidon,"May 26, 2017",70
+479,Rosewood Almanac,Will Stratton,"May 12, 2017",70
+480,Away,Okkervil River,"September 9, 2016",70
+481,Ambulance,The Amazing,"July 22, 2016",70
+482,Skip a Sinking Stone,Mutual Benefit,"May 20, 2016",70
+483,"A Folk Set Apart: Rarities, B",Cass McCombs,"December 11, 2015",70
+484,I Don't Want To Let You Down,Sharon Van Etten,"June 9, 2015",70
+485,Darling Arithmetic,Villagers,"April 14, 2015",70
+486,Past Life,Lost In The Trees,"February 18, 2014",70
+487,Harlem River,Kevin Morby,"November 26, 2013",70
+488,Man and Myth,Roy Harper,"September 23, 2013",70
+489,Sub Verses,Akron/Family,"April 30, 2013",70
+490,Junip,Junip,"April 23, 2013",70
+491,What The Brothers Sang,Bonnie 'Prince' Billy & Dawn McCarthy,"February 19, 2013",70
+492,Child Ballads,Anaïs Mitchell & Jefferson Hamer,"February 11, 2013",70
+493,The Sister,Marissa Nadler,"May 29, 2012",70
+494,A Monument,Tu Fawning,"May 15, 2012",70
+495,Hoyas,S. Carey,"May 8, 2012",70
+496,Admiral Fell Promises,Sun Kil Moon,"July 13, 2010",70
+497,Heart of My Own,Basia Bulat,"January 26, 2010",70
+498,If You Leave It Alone,The Wave Pictures,"May 4, 2009",70
+499,Ash Wednesday,Elvis Perkins,"February 20, 2007",70
+500,New Roman Times,Camper Van Beethoven,"October 12, 2004",70
+501,Field Rexx,Blitzen Trapper,"January 1, 2004",70
+502,Veneer,José González,"October 29, 2003",70
+503,Clouds,Joni Mitchell,"May 1, 1969",70
+504,"By the Way, I Forgive You",Brandi Carlile,"February 16, 2018",69
+505,Cowboy Worship,Amen Dunes,"January 20, 2015",69
+506,LAST,Little Wings,"February 5, 2013",69
+507,Coming Out of the Fog,Arbouretum,"January 22, 2013",69
+508,We All Raise Our Voices To The Air (Live Songs 04.11,The Decemberists,"March 13, 2012",69
+509,Animal Joy,Shearwater,"February 14, 2012",69
+510,Becoming a Jackal,Villagers,"June 8, 2010",69
+511,Inter,Peter Wolf Crier,"May 25, 2010",69
+512,Hunting My Dress,Jesca Hoop,"November 16, 2009",69
+513,Year In The Kingdom,J. Tillman,"September 8, 2009",69
+514,Luminous Night,Six Organs of Admittance,"August 18, 2009",69
+515,Glory Hope Mountain,The Acorn,"September 25, 2007",69
+516,Woke on a Whaleheart,Bill Callahan,"April 24, 2007",69
+517,Springtime Can Kill You,Jolie Holland,"May 9, 2006",69
+518,La maison de mon rêve,CocoRosie,"March 9, 2004",69
+519,Pyramid Electric Co.,Jason Molina,"January 20, 2004",69
+520,Want One,Rufus Wainwright,"September 23, 2003",69
+521,Figure 8,Elliott Smith,"April 18, 2000",69
+522,Iron Curtain Innocence,Bobb Trimble,"January 1, 1980",69
+523,Raft,Mike Cooper,"July 7, 2017",68
+524,Year of the Rabbit,Eskimeaux,"April 15, 2016",68
+525,Skifflin',The Skiffle Players,"February 12, 2016",68
+526,The Soul of All Natural Things,Linda Perhacs,"March 4, 2014",68
+527,Carrier,The Dodos,"August 27, 2013",68
+528,The Beast In Its Tracks,Josh Ritter,"March 5, 2013",68
+529,Tempest,Bob Dylan,"September 11, 2012",68
+530,Among The Leaves,Sun Kil Moon,"May 29, 2012",68
+531,Out of the Game,Rufus Wainwright,"May 1, 2012",68
+532,Long Live the King,The Decemberists,"November 1, 2011",68
+533,Tripper,Fruit Bats,"August 2, 2011",68
+534,Beachcomber's Windowsill,Stornoway,"August 10, 2010",68
+535,"Texas Rose, the Thaw, and the Beasts",Castanets,"September 22, 2009",68
+536,Orange You Glad,Julian Lynch,"August 1, 2009",68
+537,yArDs,tUnE,"March 19, 2009",68
+538,Hold Time,M. Ward,"February 17, 2009",68
+539,"Alas, I Cannot Swim",Laura Marling,"February 11, 2008",68
+540,Invitation Songs,The Cave Singers,"September 25, 2007",68
+541,The Trials of Van Occupanther,Midlake,"July 25, 2006",68
+542,Mosaic,Wovenhand,"June 16, 2006",68
+543,"Sun, Sun, Sun",The Elected,"January 24, 2006",68
+544,Mermaid Avenue,Billy Bragg & Wilco,"June 23, 1998",68
+545,Peace Trail,Neil Young,"December 9, 2016",67
+546,No No No,Beirut,"September 11, 2015",67
+547,Dark Bird Is Home,The Tallest Man On Earth,"May 12, 2015",67
+548,Black Pudding,Mark Lanegan & Duke Garwood,"May 14, 2013",67
+549,Adam Green & Binki Shapiro,Adam Green & Binki Shapiro,"January 29, 2013",67
+550,So Beautiful or So What,Paul Simon,"April 12, 2011",67
+551,Creep On Creepin' On,Timber Timbre,"April 5, 2011",67
+552,See You On The Moon,Tift Merritt,"June 1, 2010",67
+553,Wild Go,Dark Dark Dark,"January 5, 2010",67
+554,Through the Devil Softly,Hope Sandoval & The Warm Inventions,"September 28, 2009",67
+555,Elvis Perkins in Dearland,Elvis Perkins,"March 10, 2009",67
+556,Cinder,Dirty Three,"October 11, 2005",67
+557,Everyone Is Here,The Finn Brothers,"August 24, 2004",67
+558,Tallahassee,The Mountain Goats,"November 5, 2002",67
+559,Song to a Seagull,Joni Mitchell,"March 1, 1968",67
+560,Together at Last,Jeff Tweedy,"June 23, 2017",66
+561,Myths 002,Ariel Pink & Weyes Blood,"January 27, 2017",66
+562,Ape in Pink Marble,Devendra Banhart,"September 23, 2016",66
+563,Natural Born Losers,Nicole Dollanganger,"October 9, 2015",66
+564,Beat the Champ,The Mountain Goats,"April 7, 2015",66
+565,Vestiges & Claws,José González,"February 17, 2015",66
+566,Field Report,Field Report,"September 11, 2012",66
+567,When The Devil's Loose,A.A. Bondy,"September 1, 2009",66
+568,Dropping The Writ,Cass McCombs,"January 28, 2008",66
+569,Colin Meloy Sings Morrissey,Colin Meloy,"January 1, 2005",66
+570,Memory of a Cut Off Head,OCS,"November 17, 2017",65
+571,Fatherland,Kele Okereke,"October 6, 2017",65
+572,Common As Light and Love Are Red Valleys of Blood,Sun Kil Moon,"February 17, 2017",65
+573,Luck Man,Tim Cohen,"January 20, 2017",65
+574,Golden Sings That Have Been Sung,Ryley Walker,"August 19, 2016",65
+575,EARTH,Neil Young & Promise of the Real,"June 17, 2016",65
+576,I Want to See Pulaski at Night,Andrew Bird,"November 12, 2013",65
+577,The Carpenter,The Avett Brothers,"September 11, 2012",65
+578,No Witch,The Cave Singers,"February 22, 2011",65
+579,Strict Joy,The Swell Season,"October 27, 2009",65
+580,Monsters of Folk,Monsters of Folk,"September 22, 2009",65
+581,Thing of the Past,Vetiver,"May 13, 2008",65
+582,The Wake,Scott Kelly,"May 6, 2008",65
+583,Colin Meloy Sings Live!,Colin Meloy,"April 8, 2008",65
+584,Smokey Rolls Down Thunder Canyon,Devendra Banhart,"September 25, 2007",65
+585,"Oh, My Darling",Basia Bulat,"April 30, 2007",65
+586,Diamonds On the Inside,Ben Harper,"March 11, 2003",65
+587,Sleeping on Roads,Neil Halstead,"January 28, 2002",65
+588,Hundred Acres,S. Carey,"February 23, 2018",64
+589,Ruins,First Aid Kit,"January 19, 2018",64
+590,This Machine Kills Artists,Buzz Osborne,"June 3, 2014",64
+591,Out of It and Into It,Tall Firs,"March 12, 2012",64
+592,The Errant Charm,Vetiver,"June 14, 2011",64
+593,Ukulele Songs,Eddie Vedder,"May 31, 2011",64
+594,"Set Em Wild, Set Em Free",Akron/Family,"May 5, 2009",64
+595,What Comes After The Blues,Magnolia Electric Co.,"April 5, 2005",64
+596,The Cowboy's Prayer,Mutual Benefit,"September 2, 2014",63
+597,Making the Saint,Chris Schlarb,"May 27, 2014",63
+598,A Letter Home,Neil Young,"April 19, 2014",63
+599,Cynic's New Year,Horse Feathers,"April 17, 2012",63
+600,A Wasteland Companion,M. Ward,"April 10, 2012",63
+601,Virtue,Emmy the Great,"June 13, 2011",63
+602,No Ghost,The Acorn,"September 7, 2010",63
+603,The Ghost Who Walks,Karen Elson,"May 25, 2010",63
+604,Sunday at Devil Dirt,Isobel Campbell & Mark Lanegan,"November 18, 2008",63
+605,Fisherman's Woman,Emiliana Torrini,"January 31, 2005",63
+606,Sean,Sinéad O'Connor,"October 8, 2002",63
+607,Tomorrow Will Be Beautiful,Flo Morrissey,"June 15, 2015",62
+608,Primrose Green,Ryley Walker,"March 31, 2015",62
+609,Wheel,Laura Stevenson,"April 23, 2013",62
+610,Come Back to Us,Release the Sunbird,"July 26, 2011",62
+611,Hearts on Hold,Tu Fawning,"October 5, 2010",62
+612,Tribute To,Yim Yames,"August 4, 2009",62
+613,Easy Tiger,Ryan Adams,"June 26, 2007",62
+614,Lost on the River: The New Basement Tapes,The New Basement Tapes,"November 11, 2014",61
+615,Rebellion Hymns,Man's Gin,"June 25, 2013",61
+616,Ghost on Ghost,Iron & Wine,"April 16, 2013",61
+617,Don't Act Like You Don't Care,Luke Temple,"August 16, 2011",61
+618,III,Espers,"October 20, 2009",61
+619,Strange Angels,Kristin Hersh,"February 3, 1998",61
+620,Coming from Reality,Rodriguez,"November 1, 1971",61
+621,Go Dig My Grave,Susanna,"February 9, 2018",60
+622,Who Me?,Juan Wauters,"May 12, 2015",60
+623,Forever So,Husky,"July 10, 2012",60
+624,Here,Edward Sharpe & the Magnetic Zeros,"May 29, 2012",60
+625,Garden of Arms,Peter Wolf Crier,"September 6, 2011",60
+626,Crayon Angel: A Tribute to the Music of Judee Sill,Various Artists,"September 22, 2009",60
+627,Acid Tongue,Jenny Lewis,"September 23, 2008",60
+628,Cassadaga,Bright Eyes,"April 10, 2007",60
+629,Want Two,Rufus Wainwright,"November 16, 2004",60
+630,Master and Everyone,Bonnie 'Prince' Billy,"January 28, 2003",60
+631,Burn to Shine,Ben Harper & The Innocent Criminals,"September 21, 1999",60
+632,More Rain,M. Ward,"March 4, 2016",59
+633,Lily,Sam Amidon,"September 29, 2014",59
+634,Poor Moon,Poor Moon,"August 28, 2012",59
+635,Nightingale,Erland & The Carnival,"March 7, 2011",59
+636,Alexander,Alexander,"February 28, 2011",59
+637,Four Winds,Bright Eyes,"March 6, 2007",59
+638,Fellow Travelers,Shearwater,"November 26, 2013",58
+639,Blue Water White Death,Blue Water White Death,"October 12, 2010",58
+640,Mind Raft,Deradoorian,"May 5, 2009",58
+641,Song of the Pearl,Arbouretum,"March 10, 2009",58
+642,Eugene McGuinness,Eugene McGuinness,"October 12, 2008",58
+643,War Elephant,Deer Tick,"September 4, 2007",58
+644,Between Two Shores,Glen Hansard,"January 19, 2018",57
+645,Us Alone,Hayden,"February 5, 2013",57
+646,New Wild Everywhere,Great Lake Swimmers,"April 3, 2012",57
+647,"Celebration, Florida",The Felice Brothers,"May 10, 2011",57
+648,Minor Love,Adam Green,"February 16, 2010",57
+649,The Hazards of Love,The Decemberists,"March 24, 2009",57
+650,The Historical Conquests of Josh Ritter,Josh Ritter,"August 21, 2007",57
+651,Trials & Errors,Magnolia Electric Co.,"January 18, 2005",57
+652,Out of Season,Beth Gibbons & Rustin Man,"October 28, 2002",57
+653,Hawks & Doves,Neil Young,"November 3, 1980",57
+654,"What a Terrible World, What a Beautiful World",The Decemberists,"January 20, 2015",56
+655,Favorite Waitress,The Felice Brothers,"June 17, 2014",56
+656,it's a big world out there (and i am scared),Kurt Vile,"November 19, 2013",56
+657,This Is Another Life,Case Studies,"June 11, 2013",56
+658,Lonesome Dreams,Lord Huron,"October 9, 2012",56
+659,Song Islands Vol. 2,Mount Eerie,"October 4, 2010",56
+660,The Black Dirt Sessions,Deer Tick,"June 8, 2010",56
+661,Jet Lag,Josiah Wolf,"March 16, 2010",56
+662,{Awayland},Villagers,"January 14, 2013",55
+663,The Bloom and the Blight,Two Gallants,"September 4, 2012",55
+664,Ideas of Distance,Young Man,"September 27, 2011",55
+665,The Felice Brothers,The Felice Brothers,"March 4, 2008",55
+666,Autumn Fallin',Jaymay,"November 12, 2007",55
+667,Ongiara,Great Lake Swimmers,"March 27, 2007",55
+668,A Forest of Arms,Great Lake Swimmers,"April 21, 2015",54
+669,Seth Avett & Jessica Lea Mayfield Sing Elliott Smith,Seth Avett & Jessica Lea Mayfield,"March 17, 2015",54
+670,Radlands,Mystery Jets,"April 30, 2012",54
+671,American Goldwing,Blitzen Trapper,"September 13, 2011",54
+672,Catching a Tiger,Lissie,"August 17, 2010",54
+673,Feast of the Hunters' Moon,Black Prairie,"April 6, 2010",54
+674,Together Through Life,Bob Dylan,"April 28, 2009",54
+675,O,Damien Rice,"February 1, 2002",54
+676,Fevers and Mirrors,Bright Eyes,"May 29, 2000",54
+677,Marigolden,Field Report,"October 7, 2014",53
+678,Tidelands,The Moondoggies,"October 12, 2010",53
+679,Born on Flag Day,Deer Tick,"June 23, 2009",53
+680,Sing Into My Mouth,Iron and Wine & Ben Bridwell,"July 17, 2015",52
+681,The Monsanto Years,Neil Young & Promise of the Real,"June 29, 2015",52
+682,Jones,Bill Ryder,"April 8, 2013",52
+683,The First Days Of Spring,Noah and The Whale,"October 6, 2009",52
+684,The Time of the Assassins,Nickel Eye,"January 27, 2009",52
+685,Forfeit / Fortune,Crooked Fingers,"October 7, 2008",52
+686,Changing of the Seasons,Ane Brun,"March 12, 2008",52
+687,Super Taranta!,Gogol Bordello,"July 10, 2007",52
+688,Quiet Is the New Loud,Kings of Convenience,"March 6, 2001",52
+689,Illusion,Poor Moon,"March 27, 2012",51
+690,Let Me Come Home,Broken Records,"January 11, 2011",51
+691,Molina & Johnson,Molina & Johnson,"November 3, 2009",51
+692,Welcome Joy,The Cave Singers,"August 18, 2009",51
+693,Solace in Sore Hands,Amandine,"April 16, 2007",51
+694,Surprise,Paul Simon,"May 9, 2006",51
+695,Heart of Nowhere,Noah and The Whale,"May 6, 2013",50
+696,Last Night on Earth,Noah and The Whale,"March 15, 2011",50
+697,The People's Key,Bright Eyes,"February 15, 2011",50
+698,Ghost,Radical Face,"March 20, 2007",50
+699,Passerby,Luluc,"July 15, 2014",49
+700,Tales From Terra Firma,Stornoway,"March 11, 2013",49
+701,The Gathering,Arbouretum,"February 15, 2011",49
+702,Until the Earth Begins to Part,Broken Records,"July 7, 2009",49
+703,Outer South,Conor Oberst,"May 5, 2009",49
+704,Shelter From The Ash,Six Organs of Admittance,"November 20, 2007",49
+705,Smart Flesh,The Low Anthem,"February 22, 2011",48
+706,What the Toll Tells,Two Gallants,"February 13, 2006",48
+707,How I Loved You,Angels of Light,"March 20, 2001",48
+708,Break Up,Pete Yorn & Scarlett Johansson,"September 8, 2009",47
+709,Saltbreakers,Laura Veirs,"March 27, 2007",47
+710,Edward Sharpe & the Magnetic Zeros,Edward Sharpe & the Magnetic Zeros,"July 23, 2013",45
+711,Astral Weeks Live at the Hollywood Bowl,Van Morrison,"February 9, 2009",45
+712,Moenie and Kitchi,Gregory & The Hawk,"October 7, 2008",44
+713,Up From Below,Edward Sharpe & the Magnetic Zeros,"July 14, 2009",41
+714,"Broken Hymns, Limbs and Skin",O'Death,"August 22, 2008",41
+715,Last of the Country Gentlemen,Josh T. Pearson,"March 29, 2011",40
+716,What Will We Be,Devendra Banhart,"October 27, 2009",40
+717,Divine Providence,Deer Tick,"October 25, 2011",39
+718,All Days Are Nights: Songs For Lulu,Rufus Wainwright,"April 20, 2010",39
+719,True Sadness,The Avett Brothers,"June 24, 2016",38
+720,The Head and The Heart,The Head and The Heart,"April 19, 2011",38
+721,Subtítulo,Josh Rouse,"March 21, 2006",37
+722,Noah's Ark,CocoRosie,"September 13, 2005",34
+723,If the Ocean Gets Rough,Willy Mason,"March 5, 2007",31
+724,Tiny Cities,Sun Kil Moon,"November 1, 2005",30
+725,"Peaceful, the World Lays Me Down",Noah and The Whale,"September 16, 2008",26
+726,The Adventures of Ghosthorse and Stillborn,CocoRosie,"April 10, 2007",23
+727,Sigh No More,Mumford & Sons,"February 16, 2010",21
+728,9,Damien Rice,"November 3, 2006",19
+729,Pullhair Rubeye,Avey Tare & Kría Brekkan,"April 24, 2007",10

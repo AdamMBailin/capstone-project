@@ -6,6 +6,11 @@
   <body>
 
     <form action="http://localhost:5000/song_generator" method="POST">
+      <select name='model' method="GET" action="/">
+          {% for model in models %}
+          <option value= "{{model}}" SELECTED>{{model}}</option>"
+          {% endfor %}
+      </select>
       <p>length of lyrics in words <input type="number" name="length" /></p>
       <p>Starting text <input type="text" name="start" /></p>
       <p><input type="submit" value="submit" /></p>

@@ -33,17 +33,20 @@ def input_cleaner(text_in):
 
 
 
-def generate_seed_text_from_input(input_text, word_to_index):
+def generate_seed_text_from_input(input_text, word_to_index, seq_length, vocab_size, is_unknown):
+    if is_unknown is True:
+        seed_text = [word_to_index[word] if word in word_to_index else word_to_index['unknown'] for word in input_text]
 
-    seed_text = [word_to_index[word] if word in word_to_index else word_to_index['unknown'] for word in input_text]
+    else:
+        seed_text = [word_to_index[word] if word in word_to_index else np.random.randint(0, vocab_size) for word in input_text]
 
-    seed_text = pad_sequences([seed_text], maxlen=20, value=2500)
+    seed_text = pad_sequences([seed_text], maxlen=seq_length, value=vocab_size-1)
 
     return seed_text
 
 
 
-def generate_song_from_input(model, seq_length, reverse_dictionary, n_words, seed_text):
+def generate_song_from_input(model, seq_length, reverse_dictionary, n_words, vocab_size, seed_text):
 
     print('Writing new song')
 
@@ -55,8 +58,8 @@ def generate_song_from_input(model, seq_length, reverse_dictionary, n_words, see
         in_text = np.expand_dims(seed_text, axis=0)
 #         yhat = model.predict_classes(in_text)
         predict_prob = model.predict_proba(in_text)
-        yhat = np.random.choice(range(10001), 1, p=predict_prob[0])
-        if yhat == 10000:
+        yhat = np.random.choice(range(vocab_size + 1), 1, p=predict_prob[0])
+        if yhat == vocab_size:
             word = words.words()[np.random.randint(0,len(words.words()))]
         else:
             word = reverse_dictionary[yhat[0]]
