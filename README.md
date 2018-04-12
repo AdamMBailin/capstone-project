@@ -12,3 +12,14 @@ The goals of this project are to:
 2. To refine the models to output song lyrics with structure, consistent themes and rhymes
 3. To expand model creation to more albums, artists and genres
 4. To create a Flask application with basic design elements
+
+## Progress:
+1. Data Collection notebook
+2. Data combining notebook
+3. Initial EDA
+4. Album level model and text generation for *In the Aeroplane Over the Sea*
+5. Iterations of the album level model
+6. Artist level model and text generation for The Decemberists
+7. Genre level model for folk
+8. Folk model text generation
+
