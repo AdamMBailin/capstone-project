@@ -14,12 +14,11 @@ The goals of this project are to:
 4. To create a Flask application with basic design elements
 
 ## Progress:
-1. Data Collection notebook
-2. Data combining notebook
-3. Initial EDA
-4. Album level model and text generation for *In the Aeroplane Over the Sea*
-5. Iterations of the album level model
-6. Artist level model and text generation for The Decemberists
-7. Genre level model for folk
-8. Folk model text generation
-
+1. Data Collection [notebook](https://github.com/AdamMBailin/capstone-project/blob/master/lyric_data_collection.ipynb)
+2. Data combining [notebook](https://github.com/AdamMBailin/capstone-project/blob/master/lyrical_data_combining.ipynb)
+3. Initial [EDA](https://github.com/AdamMBailin/capstone-project/blob/master/EDA.ipynb)
+4. [Album level model](https://github.com/AdamMBailin/capstone-project/blob/master/in_the_aeroplane_over_the_sea_initial_models.ipynb) and text generation for *In the Aeroplane Over the Sea*
+5. Iteration [1](https://github.com/AdamMBailin/capstone-project/blob/master/in_the_aeroplane_over_the_sea_other_initial_models.ipynb) and [2](https://github.com/AdamMBailin/capstone-project/blob/master/in_the_aeroplane_over_the_sea_other_padding_models.ipynb) of the album level model
+6. [Artist level model](https://github.com/AdamMBailin/capstone-project/blob/master/the_decemberists_artist_model.ipynb) and text generation for The Decemberists
+7. [Genre level model](https://github.com/AdamMBailin/capstone-project/blob/master/all_folk_genre_model.ipynb) for folk
+8. [Folk model text generation](https://github.com/AdamMBailin/capstone-project/blob/master/all_folk_lyric_generation.ipynb)
