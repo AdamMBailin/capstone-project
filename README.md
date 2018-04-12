@@ -8,7 +8,7 @@ I collected lists of pitchfork reviewed albums from [albumoftheyear](www.albumof
 
 ## Objectives:
 The goals of this project are to:
--To want to develop album, artist, and genre level models for folk music that generate new lyrics
--To refine the models to output song lyrics with structure, consistent themes and rhymes
--To expand model creation to more albums, artists and genres
--To create a Flask application with basic design elements
+1. To want to develop album, artist, and genre level models for folk music that generate new lyrics
+2. To refine the models to output song lyrics with structure, consistent themes and rhymes
+3. To expand model creation to more albums, artists and genres
+4. To create a Flask application with basic design elements
